@@ -12,7 +12,7 @@ categories: IDEA 版本控制
 
 # 二、解决办法：
 
-1. 生成自己的token
+###1. 生成自己的token
 
    1）网页登陆github，点击头像后选择Settings
 
@@ -36,7 +36,7 @@ categories: IDEA 版本控制
 
    
 
-2. IDEA中设置github的token
+###2. IDEA中设置github的token
 
 file->settings->搜索github->add account->Enter token->输入刚刚创建的token->log in->大功告成 可以去上传代码了；
 
