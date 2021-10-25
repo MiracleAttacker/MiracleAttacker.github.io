@@ -14,25 +14,27 @@ categories: IDEA 版本控制
 
 1. 生成自己的token
 
-1）网页登陆github，点击头像后选择Settings
+   1）网页登陆github，点击头像后选择Settings
 
-![github1](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github1.png)
+   ![github1](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github1.png)
 
-2）选择左侧developer settings
+   2）选择左侧developer settings
 
-![github2](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github2.png)
+   ![github2](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github2.png)
 
-3）选择左侧Personal access tokens
+   3）选择左侧Personal access tokens
 
-![github3](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github3.png)
+   ![github3](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github3.png)
 
-4）选择Generate new token
+   4）选择Generate new token
 
-![github4](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github4.png)
+   ![github4](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github4.png)
 
-5）note 随便起一个名字 ，expiration选择有效期（想省事并且只有自己提交代码直接选最后一个no expiration 无期限）权限只用commit pull push 这些操作 只勾上repo就可以。  自己用可以都勾上。最后点击绿色按钮Generate token  完成
+   5）note 随便起一个名字 ，expiration选择有效期（想省事并且只有自己提交代码直接选最后一个no expiration 无期限）权限只用commit pull push 这些操作 只勾上repo就可以。  自己用可以都勾上。最后点击绿色按钮Generate token  完成
 
-![github5](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github5.png)
+   ![github5](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github5.png)
+
+   
 
 2. IDEA中设置github的token
 
