@@ -30,6 +30,6 @@ categories: IDEA 版本控制
 
 ![github4](./images/github4.png)
 
-4）note 随便起一个名字 ，expiration选择有效期（想省事并且只有自己提交代码直接选最后一个no expiration 无期限）权限只用commit pull push 这些操作 只勾上repo就可以。  自己用可以都勾上。最后点击绿色按钮Generate token  完成
+5）note 随便起一个名字 ，expiration选择有效期（想省事并且只有自己提交代码直接选最后一个no expiration 无期限）权限只用commit pull push 这些操作 只勾上repo就可以。  自己用可以都勾上。最后点击绿色按钮Generate token  完成
 
 ![github5](./images/github5.png)
