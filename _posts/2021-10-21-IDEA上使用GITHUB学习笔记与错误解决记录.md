@@ -16,7 +16,7 @@ categories: IDEA 版本控制
 
 1）网页登陆github，点击头像后选择Settings
 
-![github1](./images/github1.png)
+![github1](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github1.png)
 
 2）选择左侧developer settings
 
