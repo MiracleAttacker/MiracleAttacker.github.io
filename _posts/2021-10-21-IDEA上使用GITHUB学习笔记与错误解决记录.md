@@ -33,3 +33,11 @@ categories: IDEA 版本控制
 5）note 随便起一个名字 ，expiration选择有效期（想省事并且只有自己提交代码直接选最后一个no expiration 无期限）权限只用commit pull push 这些操作 只勾上repo就可以。  自己用可以都勾上。最后点击绿色按钮Generate token  完成
 
 ![github5](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github5.png)
+
+2. IDEA中设置github的token
+
+file->settings->搜索github->add account->Enter token->输入刚刚创建的token->log in->大功告成 可以去上传代码了；
+
+![github6](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github6.png)
+
+![github7](https://raw.githubusercontent.com/MiracleAttacker/MiracleAttacker.github.io/master/_posts/images/github7.png)
