@@ -14,7 +14,7 @@ categories: IDEA 版本控制
 
 1. 生成自己的token
 
-   1）网页登陆github，点击头像后选择Settings
+1）网页登陆github，点击头像后选择Settings
 
 ![github1](./images/github1.png)
 
